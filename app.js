@@ -44,7 +44,7 @@ const menu = [
   },
   {
     id: 7,
-    title: "biryani",
+    title: "Biryani",
     catagory: "launch",
     img: "img/byriani.jpg",
     desc: "Biryani is a mixed rice dish originating among the Indian subcontinent. It is made with Indian spices, rice, and meat usually that of chicken, goat, lamb, prawn, fish, and sometimes, in addition, eggs or vegetables such as potatoes in certain regional varieties",
